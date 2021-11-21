@@ -36,12 +36,7 @@ Both the java and python run times take turns in reading from and writing to the
 
 ### Project todos
 
-- [ ] make host ui and ai code to run via browser
-- [ ] include instructions for compiling and running source code
-- [ ] (less important) make depth a variable 
-- [ ] include screenshots
-- [ ] explain communication between runtimes a bit more
-- [ ] explain ai logic a bit more
+- [ ] make depth a variable 
 
 
 
