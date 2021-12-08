@@ -1,4 +1,6 @@
 # lines-of-action
+![image](https://user-images.githubusercontent.com/41694147/145190277-4cd52158-9cad-42e2-a964-9115cf64e1ed.png)
+
 
 A Project on designing game AI using adverserial search. 
 Ths project consists of an AI that can play the board game Lines of Action. A basic UI for the game is included in the source files which allows for human vs human as well as human vs AI gameplay. 
